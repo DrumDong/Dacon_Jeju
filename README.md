@@ -5,7 +5,7 @@
 
 |  이름  |              내용              |
 | :----: | :--------------------------: |
-| [EDA 1](Jeju_01th) |  value_count를 통한 지역별 업종 비중 확인 및 업종별 CNT, CSTMR_CNT 확인 |
+| [EDA 1](Jeju_01th.ipynb) |  value_count를 통한 지역별 업종 비중 확인 및 업종별 CNT, CSTMR_CNT 확인 |
 
 
 **Modeling**: 
