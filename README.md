@@ -12,4 +12,4 @@
 
 |  이름  |              내용              |
 | :----: | :--------------------------: |
-| [LightGBM](Jeju_modeling(LightGBM).ipynb) | LightGBM 기본 BaseLine, 5.  |
+| [LightGBM](Jeju_modeling(LightGBM).ipynb) | LightGBM 기본 BaseLine, 점수: 5.  |
