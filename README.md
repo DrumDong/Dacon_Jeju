@@ -6,6 +6,7 @@
 |  이름  |              내용              |
 | :----: | :--------------------------: |
 | [EDA 1](Jeju_01th.ipynb) |  value_count를 통한 지역별 업종 비중 확인 및 업종별 CNT, CSTMR_CNT 확인 |
+| [EDA 2](Jeju_DataPreprocess_02th.ipynb) |  데이터프레임 결측치에 대한 고찰 |
 
 
 **Modeling**: 
