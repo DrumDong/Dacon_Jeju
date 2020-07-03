@@ -12,4 +12,4 @@
 
 |  이름  |              내용              |
 | :----: | :--------------------------: |
-| [LightGBM](Jeju_modeling(LightGBM).ipynb) | LightGBM 기본 BaseLine, 점수: 5.  |
+| [LightGBM](Jeju_modeling(LightGBM).ipynb) | Base Line 1: 일반 라벨인코딩 활용, Base Line 2: Categorical 변수 적용, Base Line 3: 업종별 Smote Oversampling 적용  |
