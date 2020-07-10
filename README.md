@@ -20,4 +20,4 @@
 
 |  이름  |              내용              |
 | :----: | :--------------------------: |
-| [LightGBM](Jeju_modeling(LightGBM).ipynb) | Base Line 1: 일반 라벨인코딩 활용, Base Line 2: Categorical 변수 적용, Base Line 3: 업종별 Smote Oversampling 적용  |
+| [LightGBM](Jeju_modeling(LightGBM).ipynb) | Base Line 1: 일반 라벨인코딩 활용, Base Line 2: Categorical 변수 적용, Base Line 3: 업종별 Smote Oversampling 적용,Base Line 4: 전 기간 previous AMT,CNT,CSTMR_CNT 변수 생성 (Jeju_Preprocess_o1th에서 만든 데이터프레임 활용)  |
