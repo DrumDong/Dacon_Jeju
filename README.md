@@ -15,6 +15,7 @@
 | [Data Preprocess 1](Jeju_DataPreprocess_02th.ipynb) |  데이터프레임 결측치에 대한 고찰 |
 | [Data Preprocess 2](Jeju_DataPreprocess_01th.ipynb) |  파생변수 제작: 전 기간의 수치(기준년월에 대한 3개월,6개월,9개월12개월 전의 AMT,CNT,CSTMR_CNT 의 변수를 삽입 |
 | [Data Preprocess 3](Jeju_DataPreprocess_03th.ipynb) |  파생변수 제작 가이드라인: Jensen shannon divergence를 활용한 AgglomerativeClustering(계층적(합체) 군집화 적용) |
+| [Data Preprocess 4](Jeju_DataPreprocess_04th.ipynb) |  Data_Preprocess_3 |
 
 
 **Modeling**: 
